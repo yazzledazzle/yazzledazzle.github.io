@@ -1,0 +1,98 @@
+person:
+  name: Yhana Lucas
+  profession: Research & Development
+  location: Perth, Western Australia
+  citizenship: Australia
+  birthday: 27.03.1991
+  email: yhana.lucas@gmail.com
+  site: yhanalucas.com.au
+  phone: +61 000 000 000
+  github: /yazzledazzle
+
+career:
+ - position: Research and Development and Government Incentives Professional
+   company: Deloitte Australia
+   location: Perth, Western Australia
+   dates: September 2015 – Current
+   summary: I liaise with external clients to identify and claim eligible research and development projects for the Australian Government R&D Tax Incentive. I work across a variety of industries, using my science and engineering background to engage with Australian leaders in innovation, create technical project descriptions, and identify costs.
+   accomplishments:
+    - accomplishment: accomplishment-1
+    - accomplishment: accomplishment-2
+    - accomplishment: accomplishment-3
+    - accomplishment: accomplishment-4
+ - position: Support Technician
+   company: Command IT
+   location: Perth, Western Australia
+   dates: November 2012 – November 2014
+   summary: Design, configure, install and support Networking and Server solutions to a number of Small/Medium businesses across Perth and The Pilbara Region both Remotely and on site. I task myself to troubleshoot, diagnose and resolve any issues that our customers might be having. My role requires me to work and solve issues independently; but also offer my skills and knowledge to the other Technicians in my team.
+   accomplishments:
+    - accomplishment: Documentation (Work Instructions, Network topology Diagrams).
+    - accomplishment: Monitoring and site management for over 70 businesses across Western Australia through SolarWinds N-able Technologies.
+    - accomplishment: Proper phone etiquette and strong relationships with my clients.
+    - accomplishment: Design and implementation of Server 2008/2012 solutions in offices ranging from 5-70 users.
+    - accomplishment: Implementation of Visualized Server solutions.
+    - accomplishment: Experience with a range of Netgear solutions including UTM's, ReadyNAS/Data, WAP's and Switching.
+ - position: Sales
+   company: EB Games Australia
+   location: Perth, Western Australia
+   dates: November 2009 – November 2012
+   summary: Assisted Customers by providing Trusted and Knowledgeable advice in a retail environment. Developed a strong connection of loyalty and trust from my Customers. Worked in a number of different Branches across Perth and was able to easily pick up tasks and complete my work at a High standard no matter the location.
+   accomplishments:
+    - accomplishment: Stock Management (Stocktake and daily/weekly counts of all Products).
+    - accomplishment: KPI Tracking and Training for myself and my co-workers.
+    - accomplishment: Strong, Loyal Customer relationships.
+    - accomplishment: Managing tasks and time-frames for Co-workers to follow.
+
+technicalSkills:
+  list:
+    - tr: "Embedded Systems: MSP430/TI, Arduino, RPi"
+    - tr: "Scripting languages: Python, Powershell"
+    - tr: "Web: Jekyll, Markdown"
+    - tr: "IDE: CCS, Eclipse, Atom, Sublime"
+  systems:
+   - name: Windows Server
+     level: 80
+   - name: Windows Desktop OS
+     level: 90
+   - name: Hyper-V
+     level: 70
+   - name: Vmware ESXi
+     level: 70
+   - name: vCenter
+     level: 65
+  languages:
+   - name: C
+     level: 50
+   - name: C++
+     level: 50
+   - name: C#
+     level: 55
+   - name: Java
+     level: 35
+  other:
+   - name: Linux
+     level: 65
+   - name: Git
+     level: 50
+   - name: Networking
+     level: 65
+
+sideProjects:
+  - name: Technical blog
+    description: Github pages site that I maintain as my personal blog for information regarding any problems I deal with at work and at home.
+    link: http://t04glovern.github.io/
+    type: site
+    langs: Technology
+
+education:
+  - name: Bachelor of Technology
+    degree: Computer Systems and Networking
+    location: Curtin University
+    dates: 2014 – 2017
+    link: http://www.curtin.edu.au/
+    
+  - name: Diploma of IT
+    degree: Networking
+    location: eCentral Tafe
+    dates: 2011 – 2012
+    link: https://central.wa.edu.au
