@@ -1,5 +1,5 @@
 {
-  "name": "~ Yhana Lucas ~",
+  "name": "Yhana Lucas",
   "icons": [
     {
       "src": "/yazzledazzle.github.io/img/web-app/icon-36p.png",
@@ -32,6 +32,6 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://yazzledazzle.github.io/yazzledazzle.github.io/yazzledazzle.github.io",
+  "start_url": "http://yazzledazzle.github.io/yazzledazzle.github.io/yazzledazzle.github.io",
   "display": "standalone"
 }
