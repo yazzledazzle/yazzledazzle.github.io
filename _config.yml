@@ -118,9 +118,9 @@ events:
   - image: "/img/timeline/lyn-pic.jpg"
     date: "May 2016"
     description: "Networking event"
-  - image: "/img/timeline/veritasium-pic.jpg"
+  - image: "/img/timeline/yhana-coderdojo.png"
     date: "March 2016"
-    description: "Met everyones favorite Youtuber"
+    description: "Coderdojo"
 
 # First image of the Timeline
 

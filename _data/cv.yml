@@ -6,93 +6,129 @@ person:
   birthday: 27.03.1991
   email: yhana.lucas@gmail.com
   site: yhanalucas.com.au
-  phone: +61 000 000 000
   github: /yazzledazzle
+  linkedin: /yhanalucas
 
 career:
- - position: Research and Development and Government Incentives Professional
+ - position: Research & Development and Government Incentives Consultant
    company: Deloitte Australia
    location: Perth, Western Australia
    dates: September 2015 – Current
-   summary: I liaise with external clients to identify and claim eligible research and development projects for the Australian Government R&D Tax Incentive. I work across a variety of industries, using my science and engineering background to engage with Australian leaders in innovation, create technical project descriptions, and identify costs.
-   accomplishments:
-    - accomplishment: accomplishment-1
-    - accomplishment: accomplishment-2
-    - accomplishment: accomplishment-3
-    - accomplishment: accomplishment-4
- - position: Support Technician
-   company: Command IT
-   location: Perth, Western Australia
-   dates: November 2012 – November 2014
-   summary: Design, configure, install and support Networking and Server solutions to a number of Small/Medium businesses across Perth and The Pilbara Region both Remotely and on site. I task myself to troubleshoot, diagnose and resolve any issues that our customers might be having. My role requires me to work and solve issues independently; but also offer my skills and knowledge to the other Technicians in my team.
-   accomplishments:
-    - accomplishment: Documentation (Work Instructions, Network topology Diagrams).
-    - accomplishment: Monitoring and site management for over 70 businesses across Western Australia through SolarWinds N-able Technologies.
-    - accomplishment: Proper phone etiquette and strong relationships with my clients.
-    - accomplishment: Design and implementation of Server 2008/2012 solutions in offices ranging from 5-70 users.
-    - accomplishment: Implementation of Visualized Server solutions.
-    - accomplishment: Experience with a range of Netgear solutions including UTM's, ReadyNAS/Data, WAP's and Switching.
- - position: Sales
-   company: EB Games Australia
-   location: Perth, Western Australia
-   dates: November 2009 – November 2012
-   summary: Assisted Customers by providing Trusted and Knowledgeable advice in a retail environment. Developed a strong connection of loyalty and trust from my Customers. Worked in a number of different Branches across Perth and was able to easily pick up tasks and complete my work at a High standard no matter the location.
-   accomplishments:
-    - accomplishment: Stock Management (Stocktake and daily/weekly counts of all Products).
-    - accomplishment: KPI Tracking and Training for myself and my co-workers.
-    - accomplishment: Strong, Loyal Customer relationships.
-    - accomplishment: Managing tasks and time-frames for Co-workers to follow.
+   summary: I liaise with external clients to identify and claim eligible scientific research and development projects for the Australian Government R&D Tax Incentive. I work across a variety of industries, using my science and engineering background to engage with Australian leaders in innovation, create technical project descriptions, and identify costs.
 
-technicalSkills:
+ - position: Debating Coach
+   company: Methodist Ladies' College
+   location: Perth, Western Australia
+   dates: February 2015 - Present
+   summary: I joined the College community in 2015, working primarily with middle years students. Since I joined the school, coaching students in persuasive speaking and guiding discussion of complex topics, teams in the state debating competition have seen great success - winning the state grand final for the first time since 1987. I have also introduced the school to a new, national virtual debating competition, and continue to co-ordinate students for further opportunities.
+
+ - position: Mentor
+   company: New Hope Foundation
+   location: Melbourne, Western Australia
+   dates: June 2013 - December 2013
+   summary: I ran homework clubs for refugee and migrant youths at primary and high schools in the outer Western suburbs of Melbourne. I was primarily responsible for classes for a set group of high school students, 2-3 times a week. This position included managing students with challenging behaviours, gaps in their schooling, and communication difficulties. I was also responsible for overseeing university psychology and teaching students who assisted me as a work placement.
+
+ - position: Library Stock Handler
+   company: Westbooks
+   location: Perth, Western Australia
+   dates: July 2014 – August 2015 (1 year 2 months)
+   summary: Westbooks provides library items to public libraries in Western Australia. The role included researching newly received stock, cataloguing new materials, reviewing outstanding orders & liaising with distributors.
+
+ - position: R&D Tax Professional
+   company: KPMG Australia
+   location: Melbourne, Australia
+   dates: November 2013 – July 2014
+   summary: Liaising with external clients to identify and claim eligible research and development projects for the Australian Government R&D Tax Incentive.
+
+ - position: Coach, Board Member and Adjudicator
+   company: Debaters' Association of Victoria
+   location: Melbourne, Australia
+   dates: February 2011 – July 2014
+   summary: Trained primary students through to adults in persuasive speaking and debating.
+
+ - position: Library Officer
+   company: State Library of Western Australia
+   location: Perth, Western Australia
+   dates: March 2010 – June 2010
+   summary: Provided customer service to clients including reference enquiries, bookshop sales, and IT assistance. I also assisted with management of state library network resources, including tracking and allocation of interlibrary loans, processing of external library requests, banking, switchboard management, & archive and fragile document supervision and handling.
+
+ - position: Motivational Speaker
+   company: AFS Intercultural Programs
+   location: Perth, Western Australia
+   dates: June 2009 – June 2010
+   summary: Primarily visited high schools around Western Australia, making presentations to groups of up to 2,000 people. This included creation of presentation materials, liaison with school contacts, and persuasive presentation of materials. I also sought out and assisted scholarship candidates throughout the application process, and publicised and assisted in administration of new scholarship initiatives.
+
+ - position: Farmhand & Nanny
+   company: Koji Egg Co
+   location: Kojonup, Western Australia
+   dates: November 2009 – January 2010
+   summary: N/A
+
+ - position: Research Officer
+   company: Department of the Premier and Cabinet of WA
+   location: Perth, Western Australia
+   dates: January 2009 – January 2010
+   summary: Provided support to offices of Members of State Parliament. This included research of political issues, liasing with constituents regarding their concerns and maintaining databases thereof, & updating physical filing mechanisms.
+
+ - position: Change Management Officer
+   company: Maersk Drilling
+   location: Perth, Western Australia
+   dates: January 2009 – May 2009
+   summary: This was a project contract to assist with setting up the initial technical change management system and progressing requests for a new rig.
+
+ - position: Library Officer
+   company: Town of Victoria Park
+   location: Perth, Western Australia
+   dates: November 2007 – January 2009
+   summary: Liaised with foreign language clients and dealt with cultural concerns.
+
+skills:
   list:
-    - tr: "Embedded Systems: MSP430/TI, Arduino, RPi"
-    - tr: "Scripting languages: Python, Powershell"
-    - tr: "Web: Jekyll, Markdown"
-    - tr: "IDE: CCS, Eclipse, Atom, Sublime"
-  systems:
-   - name: Windows Server
-     level: 80
-   - name: Windows Desktop OS
-     level: 90
-   - name: Hyper-V
-     level: 70
-   - name: Vmware ESXi
-     level: 70
-   - name: vCenter
-     level: 65
+    - tr: "Organised"
+    - tr: "Proactive"
+    - tr: "Intelligent"
+    - tr: "On time"
+  traits:
+   - name: trait1
+     level: 50
+   - name: trait2
+     level: 50
+   - name: trait3
+     level: 50
   languages:
-   - name: C
+   - name: English
      level: 50
-   - name: C++
+   - name: Italian
      level: 50
-   - name: C#
+   - name: French
      level: 55
-   - name: Java
+   - name: Arabic
      level: 35
+   - name: Korean
+     level: 30
   other:
-   - name: Linux
-     level: 65
-   - name: Git
+   - name: skill1
      level: 50
-   - name: Networking
-     level: 65
-
-sideProjects:
-  - name: Technical blog
-    description: Github pages site that I maintain as my personal blog for information regarding any problems I deal with at work and at home.
-    link: http://t04glovern.github.io/
-    type: site
-    langs: Technology
+   - name: skill2
+     level: 50
+   - name: skill3
+     level: 50
 
 education:
-  - name: Bachelor of Technology
-    degree: Computer Systems and Networking
-    location: Curtin University
-    dates: 2014 – 2017
-    link: http://www.curtin.edu.au/
-    
-  - name: Diploma of IT
-    degree: Networking
-    location: eCentral Tafe
-    dates: 2011 – 2012
-    link: https://central.wa.edu.au
+  - name: Bachelor of Science
+    degree: Engineering Systems
+    location: The University of Western Australia
+    dates: 2015 – 2016
+    link: http://www.uwa.edu.au/
+
+  - name: Bachelor of Science
+    degree: Engineering Systems
+    location: The University of Melbourne
+    dates: 2010 – 2014 (incomplete)
+    link: http://www.unimelb.edu.au/
+
+  - name: Western Australian Certificate of Education
+    degree: ATAR of 99.1
+    location: Mercedes College, Perth
+    dates: 2007– 2008
+    link: http://www.mercedes.wa.edu.au/
